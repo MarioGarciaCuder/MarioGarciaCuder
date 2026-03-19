@@ -24,15 +24,6 @@
 
 
 <div align="center">
-  <h2 align="center">Lenguajes 🚀</h2>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="65"/></a>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" alt="Php" width="65"/></a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="65">
-</div>
-<br>
-
-
-<div align="center">
   <h2 align="center">Tecnologías FrontEnd 🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="65">
@@ -43,7 +34,10 @@
 
 
 <div align="center">
-  <h2 align="center">Tecnologías Backend 🚀</h2
+  <h2 align="center">Tecnologías Backend & Lenguajes 🚀</h2>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="65"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php" alt="Php" width="65"/></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" width="65">
   <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="70" height="75">
 </div>
@@ -51,8 +45,7 @@
 
 
 <div align="center">
-  <h2 align="center">Bases de Datos 🚀</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="Mongo DB" width="65">
+  <h2 align="center">Bases de Datos 🚀</h2
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="65">
 </div>
 <br>
