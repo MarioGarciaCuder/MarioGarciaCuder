@@ -43,9 +43,7 @@
 
 <div align="center">
   <h2 align="center">Tecnologías Backend 🚀</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/node-original.svg" alt="Node" width="65">  
   <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="70" height="75">
 </div>
 <br>
