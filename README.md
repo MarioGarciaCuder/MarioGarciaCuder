@@ -25,7 +25,7 @@
 
 <div align="center">
   <h2 align="center">Lenguajes 🚀</h2>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="65"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="65">
 </div>
 <br>
