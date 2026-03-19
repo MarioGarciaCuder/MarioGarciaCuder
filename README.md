@@ -57,25 +57,12 @@
 </div>
 <br>
 
-
 <div align="center">
-    <h2 align="center">Entorno de Ejecución 🚀</h2>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" width="65">
-</div>
-<br>
-
-
-<div align="center">
-  <h2 align="center">Desarrollo y Pruebas de API 🚀</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="65">
-</div>
-<br>
-
-
-<div align="center">
-  <h2 align="center">IDEs 🚀</h2>
+  <h2 align="center">Herramientas & Control de Versiones 🚀</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="Intellij" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VsCode" width="65">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="65"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="65"/></a>
 </div>
 <br><br>
 
