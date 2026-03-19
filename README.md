@@ -15,15 +15,17 @@
 
 ## 🚀 Sobre Mí  
 
-👋 Hola, soy **Neeraj Hariyale**, un entusiasta estudiante de **Tecnologías de la Información** en el **Oriental College of Technology, Bhopal**. Apasionado por el **desarrollo de software y las tecnologías web**, me encanta construir proyectos que resuelvan problemas del mundo real.  
+👋 Hola, soy **Mario García**. Titulado como **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** y **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**. Soy un apasionado del ecosistema **Full Stack** y del desarrollo de software, enfocado en crear soluciones robustas, escalables y con gran experiencia de usuario.
 
-### 💡 Lo que hago  
-- 💻 **Competente en:** C, C++, Java, DSA, HTML, CSS, JavaScript, React  
-- 🔍 **Apasionado por:** Desarrollo Web, Integración de APIs  
+### 💡 Mi Perfil Técnico  
+- 💻 **Dominio de:** C, C++, Java, DSA, HTML, CSS, JavaScript y React.  
+- 🔍 **Especialización:** Desarrollo Web Full Stack e integración de APIs.  
+- 🏗️ **Metodología:** Creación de proyectos desde la base hasta el despliegue.
 
-### 🚀 Buscando  
-- 💼 Emocionantes **oportunidades de desarrollo y colaboraciones tecnológicas** - 📖 Aprender **nuevas tecnologías** y mantenerme actualizado con las tendencias de la industria  
-
+### 🚀 Mis Objetivos  
+- 💼 Buscando mi **primera oportunidad profesional** o colaboraciones en proyectos innovadores.  
+- 📖 Continuar expandiendo mis conocimientos en nuevas tecnologías y arquitecturas de software.
+- 
 <br><br>
 
 
