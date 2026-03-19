@@ -25,7 +25,7 @@
 
 <div align="center">
   <h2 align="center">Lenguajes 🚀</h2>
-  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="65">
 </div>
 <br>
