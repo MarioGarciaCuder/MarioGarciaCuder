@@ -1,16 +1,35 @@
-## Hi there 👋
+# ¡Hola! Soy Mario! 🍄👋
 
-<!--
-**MarioGarciaCuder/MarioGarciaCuder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com" alt="Mario Jumping" width="100"/>
+</p>
 
-Here are some ideas to get you started:
+¡Bienvenido a mi Reino Champiñón de código! 🧱✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Sobre mí
+Soy un desarrollador apasionado, siempre buscando salvar a la princesa (y solucionar bugs). 🛠️
+
+- 🛠️ **Lenguajes:** JavaScript, Python, C++, HTML/CSS
+- 🚀 **Frameworks:** React, Node.js
+- ⚡ **Hobby:** Saltar sobre tortugas y aprender nuevas tecnologías.
+
+---
+
+## 📈 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" alt="Mario Stats" />
+</p>
+
+---
+
+## 🏆 Mis Logros
+- [ ] 🌟 100 Estrellas
+- [ ] 🚀 500 Commits
+- [ ] 👾 Primer Juego 2D
+
+---
+
+## 🎮 Contáctame
+<p align="center">
+  <img src="https://media.giphy.com" alt="Mario Running" width="200"/>
+</p>
