@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=¡Hola!+Soy+Neeraj+Hariyale;¡Bienvenido+a+mi+perfil!" alt="Título"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=¡Hola!+Soy+Mario+García;¡Bienvenido+a+mi+perfil!" alt="Título"></img>
 </div>
 
 
