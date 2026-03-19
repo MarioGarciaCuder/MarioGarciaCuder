@@ -33,14 +33,8 @@
 
 <div align="center">
   <h2 align="center">Tecnologías FrontEnd 🚀</h2>
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  --------------------------------------
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind CSS" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="65">      
 </div>
@@ -49,6 +43,9 @@
 
 <div align="center">
   <h2 align="center">Tecnologías Backend 🚀</h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
   <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="70" height="75">
 </div>
 <br>
