@@ -69,23 +69,7 @@
 </div>
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mario-g-29284a293/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-</p>
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajhariyale&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=es" alt="GitHub Stats" />
-</p>
-
-
-<p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajhariyale&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
-
-
-<p align="center">🤍 ¡Si te gustan mis proyectos, dales una ⭐ y compártelos con tus amigos!</p>
-<p align="center">Hecho con ❤️ por Neeraj</p>
 
 
 <p align="center">
