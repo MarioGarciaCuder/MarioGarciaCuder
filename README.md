@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/a0GX9Qz.png" height="200"/>
-</p>
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%ffffff&size=50&center=true&vCenter=true&height=60&width=600&lines=¡Hola!+Soy+Mario+García;¡Bienvenido+a+mi+perfil!" alt="Título"></img>
 </div>
@@ -25,14 +20,12 @@
 ### 🚀 Mis Objetivos  
 - 💼 Buscando mi **primera oportunidad profesional** o colaboraciones en proyectos innovadores.  
 - 📖 Continuar expandiendo mis conocimientos en nuevas tecnologías y arquitecturas de software.
-- 
 <br><br>
 
 
 <div align="center">
   <h2 align="center">Lenguajes 🚀</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="65">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65">
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="65">
 </div>
 <br>
@@ -40,6 +33,11 @@
 
 <div align="center">
   <h2 align="center">Tecnologías FrontEnd 🚀</h2>
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  --------------------------------------
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="65">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind CSS" width="65">
@@ -87,14 +85,6 @@
 
 
 ----
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Contador de Visitas 👀</h2></summary>
-  </ul>
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/neerajhariyale/count.svg" alt="Visitor Badge"/>
-  </p>
-</div>
 
 
 <div id="user-content-toc">
