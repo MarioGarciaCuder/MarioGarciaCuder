@@ -45,7 +45,7 @@
 
 <div align="center">
   <h2 align="center">Bases de Datos 🚀</h2
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" width="65">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" alt="MySql" width="65"/></a>
 </div>
 <br>
 
