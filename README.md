@@ -25,7 +25,7 @@
 
 <div align="center">
   <h2 align="center">Lenguajes 🚀</h2>
-  
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="65">
 </div>
 <br>
@@ -42,8 +42,8 @@
 
 
 <div align="center">
-  <h2 align="center">Tecnologías Backend 🚀</h2>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="65">  
+  <h2 align="center">Tecnologías Backend 🚀</h2
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node js" width="65">
   <img src="https://i.imgur.com/gRzDY4j.png" alt="express" width="70" height="75">
 </div>
 <br>
