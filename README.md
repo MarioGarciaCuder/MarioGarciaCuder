@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre Mí  
 
-👋 Hola, soy **Mario García**. Titulado como **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** y **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**. Soy un apasionado del ecosistema **Full Stack** y del desarrollo de software, enfocado en crear soluciones robustas, escalables y con gran experiencia de usuario.
+👋 Hola, soy **Mario García**. Titulado como **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** y **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**. Soy un apasionado del ecosistema **Full Stack** y del desarrollo de software, me muevo entre React y Node. Odio el desarrollo caótico y sin documentar; para mí, programar es comunicar, tanto con el usuario como con el equipo. Me gusta que el flujo de información sea sólido y la arquitectura sea clara, porque un desarrollo sin una buena base de comunicación siempre acaba dando problemas.
 
 ### 💡 Mi Perfil Técnico  
 - 💻 **Dominio de:** Java, HTML, CSS, JavaScript y React.  
