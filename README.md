@@ -12,7 +12,7 @@
 
 👋 Hola, soy **Mario García**. Titulado como **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** y **Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)**.
 
-Me muevo entre **frontend** y mi pasión por el desarrollo **Full Stack**.
+Me muevo entre **frontend** y mi pasión por el desarrollo **full stack**.
 
 Pienso que la **comunicación** es la principal base de la programación. Con muchas ganas de seguir aprendiendo y poder aportar mi granito de arena donde se necesite.
 
