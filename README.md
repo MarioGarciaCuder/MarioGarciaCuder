@@ -14,7 +14,7 @@
 
 Me muevo entre **frontend** y mi pasión por el desarrollo **full stack**.
 
-Pienso que la **comunicación** es la principal base de la programación. Con muchas ganas de seguir aprendiendo y poder aportar mi granito de arena donde se necesite.
+Pienso que la **comunicación** es la principal base de la programación. Con varios proyectos realizados desde cero a producción,  lo que me permite mejorar mi capacidad de análisis, optimización de código y resolución eficiente de incidencias. Me adapto rápido a las nececidades del mercado. 
 
 ### 💡 Mi Perfil Técnico  
 - 💻 **Dominio de:** Java, HTML, CSS, JavaScript y React.  
